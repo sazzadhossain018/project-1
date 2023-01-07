@@ -1,0 +1,212 @@
+*{
+    margin:0px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/* style for banner and button or other */
+
+.style-banner{
+    background-image: url(../new-year-new-me/images/banner/banner3.png);
+     /* width: 1600px; */
+    height: 100vh; 
+    background-repeat: no-repeat;
+    /* margin-bottom: 130px; */
+}
+.style-title{
+    padding:240px 100px 300px 880px;
+    margin-bottom:
+    text-align: right;
+    font-weight:400px;
+    font-size: 38px;
+    color: #FFFFFF;
+}
+
+.style-discription{
+    margin-top: -250px;
+    padding:0px 140px 0px 800px;
+    text-align: right;
+    font-weight:400px;
+    font-size: 16px;
+    line-height:26px;
+    color: #FFFFFF;
+}
+
+/* button style */
+
+.style{
+    font-weight: 600px;
+    font-size: 10px;
+    color: #005FAC;
+    padding:5px 30px; 
+    border-radius: 5px;
+    border: 0px;
+}
+
+.style-btn{
+    text-align: right;
+    padding:32px 280px 167px 1025px;
+}
+
+/* style for man and description */
+
+.style-main-previous{
+    max-width: 1012px;
+    /* border: 1px solid black; */
+}
+
+/* html for man and description */
+
+.style-section{
+    /* margin-bottom: 120px; */
+    background-image: url(../new-year-new-me/images/person.png);
+    background-repeat: no-repeat;
+    margin:0px 100px 0px 115px;
+    /* border:3px solid black; */
+    max-width: 1012px;
+    height: 713px;
+}
+
+.style-year{
+    text-align:center;
+    padding: 220px 50px 0px 550px;
+    font-weight:700px;
+    font-size: 40px;
+    line-height:47px;
+    color: #151414;
+}
+
+.style-year-description{
+    padding:24px 60px 0px 630px;
+    text-align:justify;
+    font-weight: 400px;
+    font-size: 15px;
+    /* line: height 26px; */
+}
+
+.style-item{
+    text-align:justify;
+    padding:16px 50px 0px 650px;
+    /* list-style-type: none; */
+    list-style-type:symbols(check mark);
+}
+
+/* style for new section */
+
+.style-plans{
+    margin-top: 120px;
+    text-align: center;
+    font-weight: 700px;
+    font-size: 40px;
+    color: #151414;
+}
+
+/* my plans style and this is a new section */
+
+.style-siklls-habit{
+    display: flex;
+    max-width: 1141px;
+    height: 205px;
+    padding: 50px 0px 0px 330px;
+    /* border:3px solid black; */
+}
+
+.style-three{
+   padding:0px 20px 0px 20px;
+   /* margin:0px 0px 0px 20px; */
+}
+
+/* New style for photo */
+
+.new-style{
+    background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../new-year-new-me/images/watch.png);
+    border:2px solid black;
+    max-width: 940px;
+    height: 250px;
+    margin-left: 150px;
+}
+
+.new-title{
+    margin-top: 50px;
+    margin-left: 65px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 47px; 
+    color: #FFFFFF; 
+    
+}
+
+.new-btn{
+    margin-top:24px;
+    margin-left: 65px;
+}
+
+.btn{
+    padding: 5px 10px;
+    color: #005FAC;
+}
+
+/* style for footer and last style this page */
+
+.style-footer{
+    max-width: 1600px;
+    height:50vh;
+    background-color: gray;
+    margin-top:90px;
+}
+
+.style-div{
+    display: flex;
+
+}
+
+.style-future{
+    padding:120px 512px 0px 130px;
+    font-weight: 700px;
+    font-size: 45px;
+    line-height:53px;
+
+}
+
+.style-des{
+    padding:15px 512px 194px 130px;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+
+}
+
+/* img style */
+
+.style-img{
+    /* display: flex; */
+}
+
+
+/* this is last style */
+
+.style-last-five{
+    padding:130px;
+    padding-left: 150px;
+    text-align: right;
+}
+
+ 
+.style-form{
+    /* display:inline-flexbox; */
+    /* text-align: right; */
+    box-sizing: border-box;
+    /* padding: 130px 100px 530px 0px; */
+    /* width:20%; */
+    /* height: 0px */
+    margin-top: - 50px;
+    /* margin-left: 1046px; */
+    
+    
+    
+
+}
+
+
+
+
